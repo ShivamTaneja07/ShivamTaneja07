@@ -78,21 +78,6 @@ I care about solving real problems more than abstract ones, and I love making co
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamTaneja07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamTaneja07&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ShivamTaneja07&theme=tokyonight&hide_border=true" height="150"/>
-
-</div>
 
 ---
 
