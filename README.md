@@ -139,17 +139,6 @@ Production-grade web applications combining ML backends with clean, fast fronten
 </div>
 
 ---
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShivamTaneja07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ShivamTaneja07)
-
-</div>
-
----
-
 ## 🌱 Currently Leveling Up
 
 ```python
